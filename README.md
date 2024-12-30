@@ -2,13 +2,13 @@
 
 ## Objetivo da Aula:
 
-1. Criar um repositório local e adiciona-lo ao nosso GitHub - Remoto; [V]
+1. Criar um repositório local e adiciona-lo ao nosso GitHub - Remoto; [x]
 
-2. Clonar um repositório remoto para o nosso computador local; [V]
+2. Clonar um repositório remoto para o nosso computador local; [x]
 
-3. Fazer Alterações >> Adicionar // Commotar // Enviar arquivos; [V]
+3. Fazer Alterações >> Adicionar // Commotar // Enviar arquivos; [x]
 
-4. Criar uma nova Branch e Merge; [V]
+4. Criar uma nova Branch e Merge; [x]
 
 5. Realizar um Pull Request; []
 
